@@ -61,3 +61,9 @@ print(oyuncu)
 oyuncu[:]=[]
 
 print(oyuncu)
+
+liste=[1,2,3,4,5]
+
+liste.insert(1,15)
+
+print(liste)
