@@ -15,6 +15,7 @@ movietable=movietable.find_all("tr")
 
 for movie in movietable:
     movie_title  = movie.find_all("td",{"class":"titleColumn"})
-    movie_title = movie_title[0].text
-    movie_title = movie_title.replace("\n","")
+    movie_title = movie_title[0].a.text
     print(movie_title)
+    #movie_title = movie_title.replace("\n","")
+    #print(movie_title)
