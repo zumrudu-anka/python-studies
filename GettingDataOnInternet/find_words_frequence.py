@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
+import operator
 
 def clean_symbols(words):
     words_which_havent_symbols=[]
@@ -11,6 +12,16 @@ def clean_symbols(words):
         if len(word) > 0:
             words_which_havent_symbols.append(word)
     return words_which_havent_symbols
+
+def create_dictionary(all_words):
+    word_count = {}
+    for word in all_words:
+        if word in word_count:
+            word_count[word] += 1
+        else:
+            word_count[word] = 1
+    return word_count
+
 
 url="https://www.ntv.com.tr/teknoloji/aziz-sancar-nobel-kimya-odulunu-aldi,F10C10YMBEaCIMqnra3I2w"
 
@@ -25,9 +36,10 @@ for p in soup.find_all("p"):
     words=content.lower().split()
     for word in words:
         allwords.append(word)
-        print(word)
 
 allwords = clean_symbols(allwords)
 
-for word in allwords:
-    print(word)
+word_count = create_dictionary(allwords)
+
+for key,value in sorted(word_count.items(),key=operator.itemgetter(0)):
+    print(key,value)
