@@ -1,0 +1,2 @@
+def ReplaceAll(string):
+    return string.replace("ı", "i").replace("ç", "c").replace("ş", "s").replace("ö", "o").replace("ü", "u").replace("ğ", "g").replace("İ", "I").replace("Ğ", "G").replace("Ş", "S").replace("Ç", "C").replace("Ö", "O").replace("Ü", "U")
