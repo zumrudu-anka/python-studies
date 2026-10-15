@@ -1,0 +1,590 @@
+***********************Alıntı: “This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['friends', 'heartbreak', 'inspirational', 'life', 'love', 'sisters']
+***********************Alıntı: “It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['courage', 'friends']
+***********************Alıntı: “If you can't explain it to a six year old, you don't understand it yourself.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['simplicity', 'understand']
+***********************Alıntı: “You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”
+Alıntı Sahibi: Bob Marley
+Etiketler: ['love']
+***********************Alıntı: “I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['fantasy']
+***********************Alıntı: “I may not have gone where I intended to go, but I think I have ended up where I needed to be.”
+Alıntı Sahibi: Douglas Adams
+Etiketler: ['life', 'navigation']
+***********************Alıntı: “The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”
+Alıntı Sahibi: Elie Wiesel
+Etiketler: ['activism', 'apathy', 'hate', 'indifference', 'inspirational', 'love', 'opposite', 'philosophy']
+***********************Alıntı: “It is not a lack of love, but a lack of friendship that makes unhappy marriages.”
+Alıntı Sahibi: Friedrich Nietzsche
+Etiketler: ['friendship', 'lack-of-friendship', 'lack-of-love', 'love', 'marriage', 'unhappy-marriage']
+***********************Alıntı: “Good friends, good books, and a sleepy conscience: this is the ideal life.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['books', 'contentment', 'friends', 'friendship', 'life']
+***********************Alıntı: “Life is what happens to us while we are making other plans.”
+Alıntı Sahibi: Allen Saunders
+Etiketler: ['fate', 'life', 'misattributed-john-lennon', 'planning', 'plans']
+1***********************
+Alıntı: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['change', 'deep-thoughts', 'thinking', 'world']
+2***********************
+Alıntı: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['abilities', 'choices']
+3***********************
+Alıntı: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+4***********************
+Alıntı: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['aliteracy', 'books', 'classic', 'humor']
+5***********************
+Alıntı: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['be-yourself', 'inspirational']
+6***********************
+Alıntı: “Try not to become a man of success. Rather become a man of value.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['adulthood', 'success', 'value']
+7***********************
+Alıntı: “It is better to be hated for what you are than to be loved for what you are not.”
+Alıntı Sahibi: André Gide
+Etiketler: ['life', 'love']
+8***********************
+Alıntı: “I have not failed. I've just found 10,000 ways that won't work.”
+Alıntı Sahibi: Thomas A. Edison
+Etiketler: ['edison', 'failure', 'inspirational', 'paraphrased']
+9***********************
+Alıntı: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['misattributed-eleanor-roosevelt']
+10***********************
+Alıntı: “A day without sunshine is like, you know, night.”
+Alıntı Sahibi: Steve Martin
+Etiketler: ['humor', 'obvious', 'simile']
+1***********************
+Alıntı: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['change', 'deep-thoughts', 'thinking', 'world']
+2***********************
+Alıntı: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['abilities', 'choices']
+3***********************
+Alıntı: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+4***********************
+Alıntı: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['aliteracy', 'books', 'classic', 'humor']
+5***********************
+Alıntı: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['be-yourself', 'inspirational']
+6***********************
+Alıntı: “Try not to become a man of success. Rather become a man of value.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['adulthood', 'success', 'value']
+7***********************
+Alıntı: “It is better to be hated for what you are than to be loved for what you are not.”
+Alıntı Sahibi: André Gide
+Etiketler: ['life', 'love']
+8***********************
+Alıntı: “I have not failed. I've just found 10,000 ways that won't work.”
+Alıntı Sahibi: Thomas A. Edison
+Etiketler: ['edison', 'failure', 'inspirational', 'paraphrased']
+9***********************
+Alıntı: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['misattributed-eleanor-roosevelt']
+10***********************
+Alıntı: “A day without sunshine is like, you know, night.”
+Alıntı Sahibi: Steve Martin
+Etiketler: ['humor', 'obvious', 'simile']
+1***********************
+Alıntı: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['change', 'deep-thoughts', 'thinking', 'world']
+2***********************
+Alıntı: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['abilities', 'choices']
+3***********************
+Alıntı: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+4***********************
+Alıntı: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['aliteracy', 'books', 'classic', 'humor']
+5***********************
+Alıntı: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['be-yourself', 'inspirational']
+6***********************
+Alıntı: “Try not to become a man of success. Rather become a man of value.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['adulthood', 'success', 'value']
+7***********************
+Alıntı: “It is better to be hated for what you are than to be loved for what you are not.”
+Alıntı Sahibi: André Gide
+Etiketler: ['life', 'love']
+8***********************
+Alıntı: “I have not failed. I've just found 10,000 ways that won't work.”
+Alıntı Sahibi: Thomas A. Edison
+Etiketler: ['edison', 'failure', 'inspirational', 'paraphrased']
+9***********************
+Alıntı: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['misattributed-eleanor-roosevelt']
+10***********************
+Alıntı: “A day without sunshine is like, you know, night.”
+Alıntı Sahibi: Steve Martin
+Etiketler: ['humor', 'obvious', 'simile']
+1***********************
+Alıntı: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['change', 'deep-thoughts', 'thinking', 'world']
+2***********************
+Alıntı: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['abilities', 'choices']
+3***********************
+Alıntı: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+4***********************
+Alıntı: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['aliteracy', 'books', 'classic', 'humor']
+5***********************
+Alıntı: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['be-yourself', 'inspirational']
+6***********************
+Alıntı: “Try not to become a man of success. Rather become a man of value.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['adulthood', 'success', 'value']
+7***********************
+Alıntı: “It is better to be hated for what you are than to be loved for what you are not.”
+Alıntı Sahibi: André Gide
+Etiketler: ['life', 'love']
+8***********************
+Alıntı: “I have not failed. I've just found 10,000 ways that won't work.”
+Alıntı Sahibi: Thomas A. Edison
+Etiketler: ['edison', 'failure', 'inspirational', 'paraphrased']
+9***********************
+Alıntı: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['misattributed-eleanor-roosevelt']
+10***********************
+Alıntı: “A day without sunshine is like, you know, night.”
+Alıntı Sahibi: Steve Martin
+Etiketler: ['humor', 'obvious', 'simile']
+1***********************
+Alıntı: “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['change', 'deep-thoughts', 'thinking', 'world']
+2***********************
+Alıntı: “It is our choices, Harry, that show what we truly are, far more than our abilities.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['abilities', 'choices']
+3***********************
+Alıntı: “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['inspirational', 'life', 'live', 'miracle', 'miracles']
+4***********************
+Alıntı: “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['aliteracy', 'books', 'classic', 'humor']
+5***********************
+Alıntı: “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['be-yourself', 'inspirational']
+6***********************
+Alıntı: “Try not to become a man of success. Rather become a man of value.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['adulthood', 'success', 'value']
+7***********************
+Alıntı: “It is better to be hated for what you are than to be loved for what you are not.”
+Alıntı Sahibi: André Gide
+Etiketler: ['life', 'love']
+8***********************
+Alıntı: “I have not failed. I've just found 10,000 ways that won't work.”
+Alıntı Sahibi: Thomas A. Edison
+Etiketler: ['edison', 'failure', 'inspirational', 'paraphrased']
+9***********************
+Alıntı: “A woman is like a tea bag; you never know how strong it is until it's in hot water.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['misattributed-eleanor-roosevelt']
+10***********************
+Alıntı: “A day without sunshine is like, you know, night.”
+Alıntı Sahibi: Steve Martin
+Etiketler: ['humor', 'obvious', 'simile']
+11***********************
+Alıntı: “This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['friends', 'heartbreak', 'inspirational', 'life', 'love', 'sisters']
+12***********************
+Alıntı: “It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['courage', 'friends']
+13***********************
+Alıntı: “If you can't explain it to a six year old, you don't understand it yourself.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['simplicity', 'understand']
+14***********************
+Alıntı: “You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”
+Alıntı Sahibi: Bob Marley
+Etiketler: ['love']
+15***********************
+Alıntı: “I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['fantasy']
+16***********************
+Alıntı: “I may not have gone where I intended to go, but I think I have ended up where I needed to be.”
+Alıntı Sahibi: Douglas Adams
+Etiketler: ['life', 'navigation']
+17***********************
+Alıntı: “The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”
+Alıntı Sahibi: Elie Wiesel
+Etiketler: ['activism', 'apathy', 'hate', 'indifference', 'inspirational', 'love', 'opposite', 'philosophy']
+18***********************
+Alıntı: “It is not a lack of love, but a lack of friendship that makes unhappy marriages.”
+Alıntı Sahibi: Friedrich Nietzsche
+Etiketler: ['friendship', 'lack-of-friendship', 'lack-of-love', 'love', 'marriage', 'unhappy-marriage']
+19***********************
+Alıntı: “Good friends, good books, and a sleepy conscience: this is the ideal life.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['books', 'contentment', 'friends', 'friendship', 'life']
+20***********************
+Alıntı: “Life is what happens to us while we are making other plans.”
+Alıntı Sahibi: Allen Saunders
+Etiketler: ['fate', 'life', 'misattributed-john-lennon', 'planning', 'plans']
+21***********************
+Alıntı: “I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”
+Alıntı Sahibi: Pablo Neruda
+Etiketler: ['love', 'poetry']
+22***********************
+Alıntı: “For every minute you are angry you lose sixty seconds of happiness.”
+Alıntı Sahibi: Ralph Waldo Emerson
+Etiketler: ['happiness']
+23***********************
+Alıntı: “If you judge people, you have no time to love them.”
+Alıntı Sahibi: Mother Teresa
+Etiketler: ['attributed-no-source']
+24***********************
+Alıntı: “Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”
+Alıntı Sahibi: Garrison Keillor
+Etiketler: ['humor', 'religion']
+25***********************
+Alıntı: “Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”
+Alıntı Sahibi: Jim Henson
+Etiketler: ['humor']
+26***********************
+Alıntı: “Today you are You, that is truer than true. There is no one alive who is Youer than You.”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['comedy', 'life', 'yourself']
+27***********************
+Alıntı: “If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['children', 'fairy-tales']
+28***********************
+Alıntı: “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: []
+29***********************
+Alıntı: “Logic will get you from A to Z; imagination will get you everywhere.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['imagination']
+30***********************
+Alıntı: “One good thing about music, when it hits you, you feel no pain.”
+Alıntı Sahibi: Bob Marley
+Etiketler: ['music']
+31***********************
+Alıntı: “The more that you read, the more things you will know. The more that you learn, the more places you'll go.”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['learning', 'reading', 'seuss']
+32***********************
+Alıntı: “Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['dumbledore']
+33***********************
+Alıntı: “The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”
+Alıntı Sahibi: Bob Marley
+Etiketler: ['friendship']
+34***********************
+Alıntı: “Not all of us can do great things. But we can do small things with great love.”
+Alıntı Sahibi: Mother Teresa
+Etiketler: ['misattributed-to-mother-teresa', 'paraphrased']
+35***********************
+Alıntı: “To the well-organized mind, death is but the next great adventure.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['death', 'inspirational']
+36***********************
+Alıntı: “All you need is love. But a little chocolate now and then doesn't hurt.”
+Alıntı Sahibi: Charles M. Schulz
+Etiketler: ['chocolate', 'food', 'humor']
+37***********************
+Alıntı: “We read to know we're not alone.”
+Alıntı Sahibi: William Nicholson
+Etiketler: ['misattributed-to-c-s-lewis', 'reading']
+38***********************
+Alıntı: “Any fool can know. The point is to understand.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['knowledge', 'learning', 'understanding', 'wisdom']
+39***********************
+Alıntı: “I have always imagined that Paradise will be a kind of library.”
+Alıntı Sahibi: Jorge Luis Borges
+Etiketler: ['books', 'library']
+40***********************
+Alıntı: “It is never too late to be what you might have been.”
+Alıntı Sahibi: George Eliot
+Etiketler: ['inspirational']
+41***********************
+Alıntı: “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”
+Alıntı Sahibi: George R.R. Martin
+Etiketler: ['read', 'readers', 'reading', 'reading-books']
+42***********************
+Alıntı: “You can never get a cup of tea large enough or a book long enough to suit me.”
+Alıntı Sahibi: C.S. Lewis
+Etiketler: ['books', 'inspirational', 'reading', 'tea']
+43***********************
+Alıntı: “You believe lies so you eventually learn to trust no one but yourself.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: []
+44***********************
+Alıntı: “If you can make a woman laugh, you can make her do anything.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['girls', 'love']
+45***********************
+Alıntı: “Life is like riding a bicycle. To keep your balance, you must keep moving.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['life', 'simile']
+46***********************
+Alıntı: “The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['love']
+47***********************
+Alıntı: “A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['attributed-no-source']
+48***********************
+Alıntı: “Only in the darkness can you see the stars.”
+Alıntı Sahibi: Martin Luther King Jr.
+Etiketler: ['hope', 'inspirational']
+49***********************
+Alıntı: “It matters not what someone is born, but what they grow to be.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['dumbledore']
+50***********************
+Alıntı: “Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”
+Alıntı Sahibi: James Baldwin
+Etiketler: ['love']
+51***********************
+Alıntı: “There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['friendship', 'love']
+52***********************
+Alıntı: “Do one thing every day that scares you.”
+Alıntı Sahibi: Eleanor Roosevelt
+Etiketler: ['attributed', 'fear', 'inspiration']
+53***********************
+Alıntı: “I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”
+Alıntı Sahibi: Marilyn Monroe
+Etiketler: ['attributed-no-source']
+54***********************
+Alıntı: “If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['music']
+55***********************
+Alıntı: “If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”
+Alıntı Sahibi: Haruki Murakami
+Etiketler: ['books', 'thought']
+56***********************
+Alıntı: “The difference between genius and stupidity is: genius has its limits.”
+Alıntı Sahibi: Alexandre Dumas fils
+Etiketler: ['misattributed-to-einstein']
+57***********************
+Alıntı: “He's like a drug for you, Bella.”
+Alıntı Sahibi: Stephenie Meyer
+Etiketler: ['drug', 'romance', 'simile']
+58***********************
+Alıntı: “There is no friend as loyal as a book.”
+Alıntı Sahibi: Ernest Hemingway
+Etiketler: ['books', 'friends', 'novelist-quotes']
+59***********************
+Alıntı: “When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”
+Alıntı Sahibi: Helen Keller
+Etiketler: ['inspirational']
+60***********************
+Alıntı: “Life isn't about finding yourself. Life is about creating yourself.”
+Alıntı Sahibi: George Bernard Shaw
+Etiketler: ['inspirational', 'life', 'yourself']
+61***********************
+Alıntı: “That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
+Alıntı Sahibi: Charles Bukowski
+Etiketler: ['alcohol']
+62***********************
+Alıntı: “You don’t forget the face of the person who was your last hope.”
+Alıntı Sahibi: Suzanne Collins
+Etiketler: ['the-hunger-games']
+63***********************
+Alıntı: “Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”
+Alıntı Sahibi: Suzanne Collins
+Etiketler: ['humor']
+64***********************
+Alıntı: “To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”
+Alıntı Sahibi: C.S. Lewis
+Etiketler: ['love']
+65***********************
+Alıntı: “Not all those who wander are lost.”
+Alıntı Sahibi: J.R.R. Tolkien
+Etiketler: ['bilbo', 'journey', 'lost', 'quest', 'travel', 'wander']
+66***********************
+Alıntı: “Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['live-death-love']
+67***********************
+Alıntı: “There is nothing to writing. All you do is sit down at a typewriter and bleed.”
+Alıntı Sahibi: Ernest Hemingway
+Etiketler: ['good', 'writing']
+68***********************
+Alıntı: “Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”
+Alıntı Sahibi: Ralph Waldo Emerson
+Etiketler: ['life', 'regrets']
+69***********************
+Alıntı: “I have never let my schooling interfere with my education.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['education']
+70***********************
+Alıntı: “I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['troubles']
+71***********************
+Alıntı: “If I had a flower for every time I thought of you...I could walk through my garden forever.”
+Alıntı Sahibi: Alfred Tennyson
+Etiketler: ['friendship', 'love']
+72***********************
+Alıntı: “Some people never go crazy. What truly horrible lives they must lead.”
+Alıntı Sahibi: Charles Bukowski
+Etiketler: ['humor']
+73***********************
+Alıntı: “The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”
+Alıntı Sahibi: Terry Pratchett
+Etiketler: ['humor', 'open-mind', 'thinking']
+74***********************
+Alıntı: “Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['humor', 'philosophy']
+75***********************
+Alıntı: “What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”
+Alıntı Sahibi: J.D. Salinger
+Etiketler: ['authors', 'books', 'literature', 'reading', 'writing']
+76***********************
+Alıntı: “The reason I talk to myself is because I’m the only one whose answers I accept.”
+Alıntı Sahibi: George Carlin
+Etiketler: ['humor', 'insanity', 'lies', 'lying', 'self-indulgence', 'truth']
+77***********************
+Alıntı: “You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”
+Alıntı Sahibi: John Lennon
+Etiketler: ['beatles', 'connection', 'dreamers', 'dreaming', 'dreams', 'hope', 'inspirational', 'peace']
+78***********************
+Alıntı: “I am free of all prejudice. I hate everyone equally. ”
+Alıntı Sahibi: W.C. Fields
+Etiketler: ['humor', 'sinister']
+79***********************
+Alıntı: “The question isn't who is going to let me; it's who is going to stop me.”
+Alıntı Sahibi: Ayn Rand
+Etiketler: []
+80***********************
+Alıntı: “′Classic′ - a book which people praise and don't read.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['books', 'classic', 'reading']
+81***********************
+Alıntı: “Anyone who has never made a mistake has never tried anything new.”
+Alıntı Sahibi: Albert Einstein
+Etiketler: ['mistakes']
+82***********************
+Alıntı: “A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['humor', 'love', 'romantic', 'women']
+83***********************
+Alıntı: “Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['integrity']
+84***********************
+Alıntı: “I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['books', 'library', 'reading']
+85***********************
+Alıntı: “There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”
+Alıntı Sahibi: Jane Austen
+Etiketler: ['elizabeth-bennet', 'jane-austen']
+86***********************
+Alıntı: “Some day you will be old enough to start reading fairy tales again.”
+Alıntı Sahibi: C.S. Lewis
+Etiketler: ['age', 'fairytales', 'growing-up']
+87***********************
+Alıntı: “We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”
+Alıntı Sahibi: C.S. Lewis
+Etiketler: ['god']
+88***********************
+Alıntı: “The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['death', 'life']
+89***********************
+Alıntı: “A lie can travel half way around the world while the truth is putting on its shoes.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['misattributed-mark-twain', 'truth']
+90***********************
+Alıntı: “I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”
+Alıntı Sahibi: C.S. Lewis
+Etiketler: ['christianity', 'faith', 'religion', 'sun']
+91***********************
+Alıntı: “The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”
+Alıntı Sahibi: J.K. Rowling
+Etiketler: ['truth']
+92***********************
+Alıntı: “I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”
+Alıntı Sahibi: Jimi Hendrix
+Etiketler: ['death', 'life']
+93***********************
+Alıntı: “To die will be an awfully big adventure.”
+Alıntı Sahibi: J.M. Barrie
+Etiketler: ['adventure', 'love']
+94***********************
+Alıntı: “It takes courage to grow up and become who you really are.”
+Alıntı Sahibi: E.E. Cummings
+Etiketler: ['courage']
+95***********************
+Alıntı: “But better to get hurt by the truth than comforted with a lie.”
+Alıntı Sahibi: Khaled Hosseini
+Etiketler: ['life']
+96***********************
+Alıntı: “You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”
+Alıntı Sahibi: Harper Lee
+Etiketler: ['better-life-empathy']
+97***********************
+Alıntı: “You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”
+Alıntı Sahibi: Madeleine L'Engle
+Etiketler: ['books', 'children', 'difficult', 'grown-ups', 'write', 'writers', 'writing']
+98***********************
+Alıntı: “Never tell the truth to people who are not worthy of it.”
+Alıntı Sahibi: Mark Twain
+Etiketler: ['truth']
+99***********************
+Alıntı: “A person's a person, no matter how small.”
+Alıntı Sahibi: Dr. Seuss
+Etiketler: ['inspirational']
+100***********************
+Alıntı: “... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”
+Alıntı Sahibi: George R.R. Martin
+Etiketler: ['books', 'mind']
