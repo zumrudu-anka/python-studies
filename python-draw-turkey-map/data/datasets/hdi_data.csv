@@ -1,0 +1,196 @@
+ISO3,Country,Human Development Groups,Human Development Index (2021)
+AFG,Afghanistan,Low,0.478
+AGO,Angola,Medium,0.586
+ALB,Albania,High,0.796
+AND,Andorra,Very High,0.858
+ARE,United Arab Emirates,Very High,0.911
+ARG,Argentina,Very High,0.842
+ARM,Armenia,High,0.759
+ATG,Antigua and Barbuda,High,0.788
+AUS,Australia,Very High,0.951
+AUT,Austria,Very High,0.916
+AZE,Azerbaijan,High,0.745
+BDI,Burundi,Low,0.426
+BEL,Belgium,Very High,0.937
+BEN,Benin,Low,0.525
+BFA,Burkina Faso,Low,0.449
+BGD,Bangladesh,Medium,0.661
+BGR,Bulgaria,High,0.795
+BHR,Bahrain,Very High,0.875
+BHS,Bahamas,Very High,0.812
+BIH,Bosnia and Herzegovina,High,0.78
+BLR,Belarus,Very High,0.808
+BLZ,Belize,Medium,0.683
+BOL,Bolivia,Medium,0.692
+BRA,Brazil,High,0.754
+BRB,Barbados,High,0.79
+BRN,Brunei,Very High,0.829
+BTN,Bhutan,Medium,0.666
+BWA,Botswana,Medium,0.693
+CAF,Central African Republic,Low,0.404
+CAN,Canada,Very High,0.936
+CHE,Switzerland,Very High,0.962
+CHL,Chile,Very High,0.855
+CHN,China,High,0.768
+CIV,Ivory Coast,Medium,0.55
+CMR,Cameroon,Medium,0.576
+COD,The Democratic Republic of the Congo,Low,0.479
+COG,Congo,Medium,0.571
+COL,Colombia,High,0.752
+COM,Comoros,Medium,0.558
+CPV,Cabo Verde,Medium,0.662
+CRI,Costa Rica,Very High,0.809
+CUB,Cuba,High,0.764
+CYP,Cyprus,Very High,0.896
+CZE,Czechia,Very High,0.889
+DEU,Germany,Very High,0.942
+DJI,Djibouti,Low,0.509
+DMA,Dominica,High,0.72
+DNK,Denmark,Very High,0.948
+DOM,Dominican Republic,High,0.767
+DZA,Algeria,High,0.745
+ECU,Ecuador,High,0.74
+EGY,Egypt,High,0.731
+ERI,Eritrea,Low,0.492
+ESP,Spain,Very High,0.905
+EST,Estonia,Very High,0.89
+ETH,Ethiopia,Low,0.498
+FIN,Finland,Very High,0.94
+FJI,Fiji,High,0.73
+FRA,France,Very High,0.903
+FSM,Micronesia,Medium,0.628
+GAB,Gabon,High,0.706
+GBR,United Kingdom,Very High,0.929
+GEO,Georgia,Very High,0.802
+GHA,Ghana,Medium,0.632
+GIN,Guinea,Low,0.465
+GMB,Gambia,Low,0.5
+GNB,Guinea-Bissau,Low,0.483
+GNQ,Equatorial Guinea,Medium,0.596
+GRC,Greece,Very High,0.887
+GRD,Grenada,High,0.795
+GTM,Guatemala,Medium,0.627
+GUY,Guyana,High,0.714
+HKG,Hong Kong,Very High,0.952
+HND,Honduras,Medium,0.621
+HRV,Croatia,Very High,0.858
+HTI,Haiti,Low,0.535
+HUN,Hungary,Very High,0.846
+IDN,Indonesia,High,0.705
+IND,India,Medium,0.633
+IRL,Ireland,Very High,0.945
+IRN,Iran,High,0.774
+IRQ,Iraq,Medium,0.686
+ISL,Iceland,Very High,0.959
+ISR,Israel,Very High,0.919
+ITA,Italy,Very High,0.895
+JAM,Jamaica,High,0.709
+JOR,Jordan,High,0.72
+JPN,Japan,Very High,0.925
+KAZ,Kazakhstan,Very High,0.811
+KEN,Kenya,Medium,0.575
+KGZ,Kyrgyzstan,Medium,0.692
+KHM,Cambodia,Medium,0.593
+KIR,Kiribati,Medium,0.624
+KNA,Saint Kitts and Nevis,High,0.777
+KOR,South Korea,Very High,0.925
+KWT,Kuwait,Very High,0.831
+LAO,Lao,Medium,0.607
+LBN,Lebanon,High,0.706
+LBR,Liberia,Low,0.481
+LBY,Libya,High,0.718
+LCA,Saint Lucia,High,0.715
+LIE,Liechtenstein,Very High,0.935
+LKA,Sri Lanka,High,0.782
+LSO,Lesotho,Low,0.514
+LTU,Lithuania,Very High,0.875
+LUX,Luxembourg,Very High,0.93
+LVA,Latvia,Very High,0.863
+MAR,Morocco,Medium,0.683
+MCO,Monaco,,
+MDA,Moldova,High,0.767
+MDG,Madagascar,Low,0.501
+MDV,Maldives,High,0.747
+MEX,Mexico,High,0.758
+MHL,Marshall Islands,Medium,0.639
+MKD,North Macedonia,High,0.77
+MLI,Mali,Low,0.428
+MLT,Malta,Very High,0.918
+MMR,Myanmar,Medium,0.585
+MNE,Montenegro,Very High,0.832
+MNG,Mongolia,High,0.739
+MOZ,Mozambique,Low,0.446
+MRT,Mauritania,Medium,0.556
+MUS,Mauritius,Very High,0.802
+MWI,Malawi,Low,0.512
+MYS,Malaysia,Very High,0.803
+NAM,Namibia,Medium,0.615
+NER,Niger,Low,0.4
+NGA,Nigeria,Low,0.535
+NIC,Nicaragua,Medium,0.667
+NLD,Netherlands,Very High,0.941
+NOR,Norway,Very High,0.961
+NPL,Nepal,Medium,0.602
+NRU,Nauru,,
+NZL,New Zealand,Very High,0.937
+OMN,Oman,Very High,0.816
+PAK,Pakistan,Low,0.544
+PAN,Panama,Very High,0.805
+PER,Peru,High,0.762
+PHL,Philippines,Medium,0.699
+PLW,Palau,High,0.767
+PNG,Papua New Guinea,Medium,0.558
+POL,Poland,Very High,0.876
+PRK,North Korea,,
+PRT,Portugal,Very High,0.866
+PRY,Paraguay,High,0.717
+PSE,"Palestine, State of",High,0.715
+QAT,Qatar,Very High,0.855
+ROU,Romania,Very High,0.821
+RUS,Russian Federation,Very High,0.822
+RWA,Rwanda,Low,0.534
+SAU,Saudi Arabia,Very High,0.875
+SDN,Sudan,Low,0.508
+SEN,Senegal,Low,0.511
+SGP,Singapore,Very High,0.939
+SLB,Solomon Islands,Medium,0.564
+SLE,Sierra Leone,Low,0.477
+SLV,El Salvador,Medium,0.675
+SMR,San Marino,Very High,0.853
+SOM,Somalia,,
+SRB,Serbia,Very High,0.802
+SSD,South Sudan,Low,0.385
+STP,Sao Tome and Principe,Medium,0.618
+SUR,Suriname,High,0.73
+SVK,Slovakia,Very High,0.848
+SVN,Slovenia,Very High,0.918
+SWE,Sweden,Very High,0.947
+SWZ,Eswatini,Medium,0.597
+SYC,Seychelles,High,0.785
+SYR,Syrian Arab Republic,Medium,0.577
+TCD,Chad,Low,0.394
+TGO,Togo,Low,0.539
+THA,Thailand,Very High,0.8
+TJK,Tajikistan,Medium,0.685
+TKM,Turkmenistan,High,0.745
+TLS,Timor-Leste,Medium,0.607
+TON,Tonga,High,0.745
+TTO,Trinidad and Tobago,Very High,0.81
+TUN,Tunisia,High,0.731
+TUR,Turkey,Very High,0.838
+TUV,Tuvalu,Medium,0.641
+TZA,Tanzania,Low,0.549
+UGA,Uganda,Low,0.525
+UKR,Ukraine,High,0.773
+URY,Uruguay,Very High,0.809
+USA,United States,Very High,0.921
+UZB,Uzbekistan,High,0.727
+VCT,Saint Vincent and the Grenadines,High,0.751
+VEN,Venezuela,Medium,0.691
+VNM,Viet Nam,High,0.703
+VUT,Vanuatu,Medium,0.607
+WSM,Samoa,High,0.707
+YEM,Yemen,Low,0.455
+ZAF,South Africa,High,0.713
+ZMB,Zambia,Medium,0.565
+ZWE,Zimbabwe,Medium,0.593
